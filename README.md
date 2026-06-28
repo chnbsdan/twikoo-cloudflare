@@ -52,7 +52,7 @@
 
 11. 当你设置前端时，第 6 步中的地址（包括 `https://` 前缀）应作为 `twikoo.init` 中的 `envId` 字段使用。
 
-> 自动部署：[查看博客](https://blog.mingy.org/2024/12/hexo-add-twikoo/)
+> 自动部署：[查看博客](https://aoso.hangdn.com/posts/%E9%83%A8%E7%BD%B2twikoo%E5%88%B0cloudflaer/)
 
 ## 已知限制
 
